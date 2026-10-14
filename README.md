@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:hoangngocbkhn2311@gmail.com"><img src="https://img.shields.io/badge/Email-hoangngocbkhn2311%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
 ---
