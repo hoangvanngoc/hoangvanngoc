@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:hoangngocbkhn2311@gmail.com"><img src="https://img.shields.io/badge/Email-hoangngocbkhn2311%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
 ---
@@ -62,12 +62,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ngochv&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngochv&layout=compact&hide_border=true&theme=tokyonight" />  
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ngochv&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
