@@ -55,17 +55,4 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ngochv&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngochv&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ngochv&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
 <p align="center"><i>Have a messy real-world problem that AI could help with? I'd love to hear about it.</i></p>
